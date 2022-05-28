@@ -1,0 +1,17 @@
+C:\Users\mhdbi\Music\User Management\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\mhdbi\Music\User Management\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhdbi\Music\User Management\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\mhdbi\Music\User Management\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\mhdbi\Music\User Management\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\mhdbi\Music\User Management\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\mhdbi\Music\User Management\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\mhdbi\Music\User Management\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\mhdbi\Music\User Management\Repository\bin\Debug\net6.0\Contracts.dll
+C:\Users\mhdbi\Music\User Management\Repository\bin\Debug\net6.0\Entities.dll
+C:\Users\mhdbi\Music\User Management\Repository\bin\Debug\net6.0\Contracts.pdb
+C:\Users\mhdbi\Music\User Management\Repository\bin\Debug\net6.0\Entities.pdb
+C:\Users\mhdbi\Music\User Management\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+C:\Users\mhdbi\Music\User Management\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\mhdbi\Music\User Management\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\mhdbi\Music\User Management\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\mhdbi\Music\User Management\Repository\obj\Debug\net6.0\ref\Repository.dll
