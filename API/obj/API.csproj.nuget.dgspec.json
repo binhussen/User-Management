@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mhdbi\\Music\\User Management\\API\\API.csproj": {}
+    "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mhdbi\\Music\\User Management\\API\\API.csproj": {
+    "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mhdbi\\Music\\User Management\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\mhdbi\\Music\\User Management\\API\\API.csproj",
+        "projectPath": "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\API\\API.csproj",
         "packagesPath": "C:\\Users\\mhdbi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mhdbi\\Music\\User Management\\API\\obj\\",
+        "outputPath": "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,14 +31,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\mhdbi\\Music\\User Management\\Contracts\\Contracts.csproj": {
-                "projectPath": "C:\\Users\\mhdbi\\Music\\User Management\\Contracts\\Contracts.csproj"
+              "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\Contracts\\Contracts.csproj"
               },
-              "C:\\Users\\mhdbi\\Music\\User Management\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\mhdbi\\Music\\User Management\\Entities\\Entities.csproj"
+              "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\mhdbi\\Music\\User Management\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\mhdbi\\Music\\User Management\\Repository\\Repository.csproj"
+              "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\Repository\\Repository.csproj"
               }
             }
           }
@@ -62,6 +62,16 @@
               "version": "[11.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
@@ -98,14 +108,14 @@
         }
       }
     },
-    "C:\\Users\\mhdbi\\Music\\User Management\\Contracts\\Contracts.csproj": {
+    "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mhdbi\\Music\\User Management\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "C:\\Users\\mhdbi\\Music\\User Management\\Contracts\\Contracts.csproj",
+        "projectPath": "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\Contracts\\Contracts.csproj",
         "packagesPath": "C:\\Users\\mhdbi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mhdbi\\Music\\User Management\\Contracts\\obj\\",
+        "outputPath": "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -125,8 +135,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\mhdbi\\Music\\User Management\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\mhdbi\\Music\\User Management\\Entities\\Entities.csproj"
+              "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\Entities\\Entities.csproj"
               }
             }
           }
@@ -159,14 +169,14 @@
         }
       }
     },
-    "C:\\Users\\mhdbi\\Music\\User Management\\Entities\\Entities.csproj": {
+    "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mhdbi\\Music\\User Management\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\mhdbi\\Music\\User Management\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\mhdbi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mhdbi\\Music\\User Management\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -242,14 +252,14 @@
         }
       }
     },
-    "C:\\Users\\mhdbi\\Music\\User Management\\Repository\\Repository.csproj": {
+    "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mhdbi\\Music\\User Management\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\mhdbi\\Music\\User Management\\Repository\\Repository.csproj",
+        "projectPath": "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\mhdbi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mhdbi\\Music\\User Management\\Repository\\obj\\",
+        "outputPath": "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -269,11 +279,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\mhdbi\\Music\\User Management\\Contracts\\Contracts.csproj": {
-                "projectPath": "C:\\Users\\mhdbi\\Music\\User Management\\Contracts\\Contracts.csproj"
+              "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\Contracts\\Contracts.csproj"
               },
-              "C:\\Users\\mhdbi\\Music\\User Management\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\mhdbi\\Music\\User Management\\Entities\\Entities.csproj"
+              "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\Entities\\Entities.csproj"
               }
             }
           }

@@ -3,6 +3,7 @@ using Entities;
 using Entities.Models;
 using Entities.Parameters;
 using Microsoft.EntityFrameworkCore;
+using Repository.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -32,9 +33,10 @@ namespace Repository.Implementaion
          await FindByCondition(e => e.id.Equals(id) && e.id.Equals(id), trackChanges)
              .SingleOrDefaultAsync();
 
-        public async Task<PagedList<User>> GetUsersAsync( RequestParameters requestParameters, bool trackChanges)
+        public async Task<PagedList<User>> GetUsersAsync( UserParameters requestParameters, bool trackChanges)
         {
             var users = await FindAll(trackChanges)
+                    .Search(requestParameters.FirstName)
                     .OrderBy(c => c.First_Name)
                     .ToListAsync();
             return PagedList<User>

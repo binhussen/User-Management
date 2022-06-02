@@ -13,3 +13,18 @@ C:\Users\mhdbi\Music\User Management\Contracts\obj\Debug\net6.0\Contracts.dll
 C:\Users\mhdbi\Music\User Management\Contracts\obj\Debug\net6.0\refint\Contracts.dll
 C:\Users\mhdbi\Music\User Management\Contracts\obj\Debug\net6.0\Contracts.pdb
 C:\Users\mhdbi\Music\User Management\Contracts\obj\Debug\net6.0\ref\Contracts.dll
+C:\Users\mhdbi\Documents\Projects\Test\User-Management\Contracts\bin\Debug\net6.0\Contracts.deps.json
+C:\Users\mhdbi\Documents\Projects\Test\User-Management\Contracts\bin\Debug\net6.0\Contracts.dll
+C:\Users\mhdbi\Documents\Projects\Test\User-Management\Contracts\bin\Debug\net6.0\Contracts.pdb
+C:\Users\mhdbi\Documents\Projects\Test\User-Management\Contracts\bin\Debug\net6.0\Entities.dll
+C:\Users\mhdbi\Documents\Projects\Test\User-Management\Contracts\bin\Debug\net6.0\Entities.pdb
+C:\Users\mhdbi\Documents\Projects\Test\User-Management\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\mhdbi\Documents\Projects\Test\User-Management\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhdbi\Documents\Projects\Test\User-Management\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\mhdbi\Documents\Projects\Test\User-Management\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+C:\Users\mhdbi\Documents\Projects\Test\User-Management\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\mhdbi\Documents\Projects\Test\User-Management\Contracts\obj\Debug\net6.0\Contracts.csproj.CopyComplete
+C:\Users\mhdbi\Documents\Projects\Test\User-Management\Contracts\obj\Debug\net6.0\Contracts.dll
+C:\Users\mhdbi\Documents\Projects\Test\User-Management\Contracts\obj\Debug\net6.0\refint\Contracts.dll
+C:\Users\mhdbi\Documents\Projects\Test\User-Management\Contracts\obj\Debug\net6.0\Contracts.pdb
+C:\Users\mhdbi\Documents\Projects\Test\User-Management\Contracts\obj\Debug\net6.0\ref\Contracts.dll

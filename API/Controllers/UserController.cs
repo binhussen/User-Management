@@ -25,9 +25,9 @@ namespace API.Controllers
             _mapper = mapper;
         }
         [HttpGet]
-        public async Task<IActionResult> GetUsers([FromQuery] RequestParameters requestParameters)
+        public async Task<IActionResult> GetUsers([FromQuery] UserParameters userParameters)
         {
-            var userFromDb = await _repository.User.GetUsersAsync(requestParameters, trackChanges: false);
+            var userFromDb = await _repository.User.GetUsersAsync(userParameters, trackChanges: false);
             Response.Headers.Add("X-Pagination", JsonConvert.SerializeObject(userFromDb.MetaData));
 
             var userDto = _mapper.Map<IEnumerable<UserDto>>(userFromDb);
@@ -96,7 +96,7 @@ namespace API.Controllers
                 _logger.LogInfo($"User with id: {id} doesn't exist in the database.");
                 return NotFound();
             }
-            _mapper.Map(userDto, user);
+            var uptry = _mapper.Map(userDto,user);
             await _repository.SaveAsync();
 
             return NoContent();

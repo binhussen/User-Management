@@ -10,7 +10,7 @@ namespace API.Mappings
         {
             //Users
             CreateMap<User, UserDto>();
-            CreateMap<User, UserForCreationDto>();
+            CreateMap<UserForCreationDto, User>();
             CreateMap<UserForUpdateDto, User>().ReverseMap();
         }
     }

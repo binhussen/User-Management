@@ -2343,11 +2343,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mhdbi\\Music\\User Management\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\mhdbi\\Music\\User Management\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\mhdbi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mhdbi\\Music\\User Management\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pAeruJKCu0/p8G2/C3z6qkwW+yWx42LFPbEF9qZG3OZLNV6jPks1QaYI5C3SdW4c+YdfTjCP/AkMPGcL6SIM8g==",
+  "dgSpecHash": "+I/d9F+i6T7t8k4IJY9dAQPvkPv1arjCcN9YGKywMbjIpU6SL9K1w1nLBDbGc4Ygx6WdNRut+vzavNoEOfMiiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mhdbi\\Music\\User Management\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\mhdbi\\Documents\\Projects\\Test\\User-Management\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mhdbi\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\mhdbi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
@@ -18,6 +18,7 @@
     "C:\\Users\\mhdbi\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.5\\microsoft.entityframeworkcore.design.6.0.5.nupkg.sha512",
     "C:\\Users\\mhdbi\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.5\\microsoft.entityframeworkcore.relational.6.0.5.nupkg.sha512",
     "C:\\Users\\mhdbi\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.5\\microsoft.entityframeworkcore.sqlserver.6.0.5.nupkg.sha512",
+    "C:\\Users\\mhdbi\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.5\\microsoft.entityframeworkcore.tools.6.0.5.nupkg.sha512",
     "C:\\Users\\mhdbi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\mhdbi\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\mhdbi\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
